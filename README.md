@@ -1,0 +1,1 @@
+## Takehome challenge for STG
